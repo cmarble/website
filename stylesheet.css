@@ -23,6 +23,11 @@ li a:hover {
     background-color: #111;
 }
 
+li name {
+    font-family: 'Dancing Script', cursive;
+    font-size: 20px;
+}
+
 div {
     background-color: #a4d3d6;
     height: 1000px;
