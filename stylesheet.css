@@ -27,7 +27,7 @@ li a:hover {
 
 li name {
     float: right;
-    font-family: "Dancing Script", cursive; 
+    font-family: cursive; 
 }
 
 div {
@@ -38,3 +38,6 @@ div {
 div:hover {
     background-color: #333;
 }
+
+h2 {
+    font-family: "Dancing Script" ;
