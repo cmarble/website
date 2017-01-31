@@ -46,3 +46,10 @@ h2 {
 h1 { 
     font-family: "Open Sans";
 }
+
+#box {
+    background-color: #ffffff;
+    height: 100px;
+}
+    
+    
