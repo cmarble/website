@@ -26,5 +26,27 @@ li a:hover {
     background-color: #111;
 }
 
+div {
+    background-color: #a4d3d6;
+    height: 1000px;
+}
+
+div:hover {
+    background-color: #333;
+}
+
+h2 {
+    font-family: "Dancing Script" ;
+}
+
+h1 { 
+    font-family: "Open Sans";
+}
+
+#box {
+    background-color: #ffffff;
+    height: 100px;
+}
+    
 
     
