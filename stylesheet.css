@@ -4,6 +4,9 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color: #333;
+	position: fixed;
+	top: 0;
+
 }
 
 li a {
@@ -40,7 +43,7 @@ h2 {
 }
 
 h1 { 
-    font-family: "Raleway";
+    font-family: Raleway;
 }
 
 #box {
