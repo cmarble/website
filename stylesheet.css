@@ -26,12 +26,12 @@ li a:hover {
     background-color: #111;
 }
 
-.grid__col {
+div {
     background-color: #a4d3d6;
     height: 1000px;
 }
 
-.grid__col:hover {
+div:hover {
     background-color: #333;
 }
 
