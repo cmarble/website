@@ -30,13 +30,13 @@ li a:hover {
     background-color: #111;
 }
 
-div {
-    margin-top: 60px;
+.grid {
+    margin-top: 30px;
 	background-color: #a4d3d6;
     height: 1000px;
 }
 
-div:hover {
+.grid:hover {
     background-color: #333;
 }
 
