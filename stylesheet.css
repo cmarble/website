@@ -36,6 +36,9 @@ div {
     height: 1000px;
 }
 
+div:hover{
+	background-color: #111;
+}
 
 .main {
 	margin-top: 50px;
