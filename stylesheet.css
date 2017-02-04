@@ -42,16 +42,18 @@ div:hover {
 
 h2 {
     font-family: "Dancing Script" ;
+	font-weight: normal;
+	margin-top: 0;
+	margin-bottom: 0;
 }
 
 h1 { 
     font-family: Raleway;
+	font-weight: normal;
+	margin-top: 0;
+	margin-bottom: 0;
 }
 
-#box {
-    background-color: #ffffff;
-    height: 100px;
-}
     
 
     
